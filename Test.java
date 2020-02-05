@@ -7,7 +7,7 @@ import java.util.Scanner;
 /**
  * Driver Very simple tests for HTTPRequest class .
  */
-public class InLab4 {
+public class Test {
 
 	/** 
 	 * Simply prints out expected value next to actual value and indicates failure.
