@@ -1,0 +1,3 @@
+The pct of get is:  57.142857
+The pct of put is:  28.571429
+The pct of other is:  14.285714

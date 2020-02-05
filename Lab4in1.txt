@@ -1,0 +1,7 @@
+get /index.html HTTP/1.1
+get /favico
+put /data?x=1
+put /some/weird/place
+get /gimme/a/404/please
+get /
+badlyFormed /some/url HTTP/1.1
